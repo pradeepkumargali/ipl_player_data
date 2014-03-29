@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 $iplSeries="2012";
 //$html_content= scraperWiki::scrape("http://www.thatscricket.com/indian-premier-league/".$iplSeries."/");
